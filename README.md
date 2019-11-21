@@ -1,5 +1,8 @@
 # Welcome to Luis Arenas' Projects
-I am a Final Year Computer Science (Software Engineering) at Brunel University London.
+I am a Final Year Computer Science (Software Engineering)
+at Brunel University London.
+## Contact Information
+larenas97@gmail.com
 
 # Project Highlights:
 ## The RIGA-AI Project
