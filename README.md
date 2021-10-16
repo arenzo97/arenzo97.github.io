@@ -2,7 +2,8 @@
 I am a Final Year Computer Science (Software Engineering)
 at Brunel University London.
 ## Contact Information
-larenas97@gmail.com
+[Email](mailto:larenas97@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/luislorenzotarenas/)
 
 # Project Highlights:
 ## The Books Library - Laravel Project
