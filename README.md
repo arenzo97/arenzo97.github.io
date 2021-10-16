@@ -1,6 +1,5 @@
 # Welcome to Luis Arenas' Projects
-Software Engineer currently working as a Developer at [Eventogy](https://eventogy.com) with First Class Honours Bachelors Degree in Computer Science with Software Engineering
-at Brunel University London.
+Software Engineer currently working as a Developer at [Eventogy](https://www.eventogy.com/) with First Class BSc in Computer Science with Software Engineering at Brunel University London.
 ## Contact Information
 [Email](mailto:larenas97@gmail.com)
 
