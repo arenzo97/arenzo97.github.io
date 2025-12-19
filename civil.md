@@ -1,7 +1,7 @@
 ---
 css: /assets/css/custom.css
 layout: default
-title: Wedding Details
+title: Civil Wedding Details
 ---
 
 # Civil Wedding Details
