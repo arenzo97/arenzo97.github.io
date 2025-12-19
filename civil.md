@@ -9,10 +9,14 @@ title: Civil Wedding Details
 **Date:** April 1, 2026  
 **Venue:** [Crowborough Register Office](https://www.eastsussex.gov.uk/registration/ceremonies/venues/crowborough-register-office)
 
-**Address:** Hookstead
-             Goldsmith's Avenue
-             Crowborough
-             TN6 1RH 
+**Address:**
+<address>
+Hookstead<br>
+Goldsmith's Avenue<br>
+Crowborough<br>
+TN6 1RH
+</address>
+
 
 ---
 
