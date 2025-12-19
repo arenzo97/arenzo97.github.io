@@ -1,4 +1,5 @@
 ---
+css: /assets/css/custom.css
 layout: default
 title: Home
 ---
