@@ -15,7 +15,7 @@ East Grinstead, RH19 2HL
 ## Wedding Verse
 
 > **Ecclesiastes 4:12**  
-> “A cord of three strands is not quickly broken”
+> “...A cord of three strands is not quickly broken”
 
 ---
 
