@@ -13,7 +13,7 @@ title: Civil Wedding Details
 Hookstead<br>
 Goldsmith's Avenue<br>
 Crowborough<br>
-TN6 1RH<br>
+TN6 1RH
 
 ---
 
