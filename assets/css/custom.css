@@ -1,7 +1,55 @@
+/* Base colors */
 a {
   color: #6b8fa3; /* dusty blue */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 h1, h2 {
   color: #7a9b8f; /* sage green */
+  font-family: 'Georgia', serif;
+}
+
+/* Body styling */
+body {
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Main container */
+main.container {
+  max-width: 720px; /* restrict width for desktop readability */
+  margin: 2rem auto; /* auto-center horizontally */
+  padding: 1.5rem; /* breathing room */
+  box-sizing: border-box;
+}
+
+/* Paragraphs */
+p, li, dd {
+  margin-bottom: 1rem;
+}
+
+/* Subtle card effect for sections (optional) */
+section {
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  background-color: #fafafa;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* Centered images */
+img {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
 }
