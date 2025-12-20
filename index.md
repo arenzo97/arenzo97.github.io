@@ -14,7 +14,7 @@ East Grinstead, RH19 2HL
 
 ## RSVP Confirmed
 
-## With Our Sincere Thanks
+### With Our Sincere Thanks
 
 Thank you for confirming your attendance at our wedding.  
 We are truly grateful for your presence and feel honoured that you will be joining us on this special day.
@@ -23,14 +23,12 @@ As we come together to celebrate our marriage, your support, prayers, and compan
 
 Further details and timing information will be shared closer to the date.
 
----
+
 
 With love and gratitude,  
 **Luis & Eden**
 
 ---
 
-## Wedding Verse
-
-> **Ecclesiastes 4:12**  
+## Ecclesiastes 4:12
 > “A cord of three strands is not quickly broken”
