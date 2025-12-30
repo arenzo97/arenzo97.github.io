@@ -8,6 +8,7 @@ title: Civil Wedding Details
 
 **Date:** April 1, 2026  
 **Time:** 11:00
+
 **Venue:** [Crowborough Register Office](https://www.eastsussex.gov.uk/registration/ceremonies/venues/crowborough-register-office)
 
 **Address:**  
