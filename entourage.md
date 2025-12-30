@@ -14,9 +14,6 @@ Navy Blue / Neptune Blue (any dark blue shade)
 **Veil, Cord, Candle:**  
 Dusty Blue
 
-**Maid of Honour:**  
-Sky Blue
-
 **Bible Bearer, Coin Bearer, Ring Bearer:**  
 Dusty Blue
 
@@ -43,6 +40,9 @@ Navy Blue / Dark Blue / Neptune / Grey
 
 **Best Man:**  
 Dark Grey (any suit colour acceptable)
+
+**Maid of Honour:**  
+Sky Blue
 
 **Security:**  
 Black or Dark Blue  
