@@ -6,6 +6,8 @@ title: Entourage
 
 # Entourage & Attire Guide
 
+As this is a formal event, we kindly request that you wear modest attire for our celebration.
+
 ## Theme colours
 
 <p align="center">
