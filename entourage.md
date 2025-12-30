@@ -6,6 +6,18 @@ title: Entourage
 
 # Entourage & Attire Guide
 
+## Theme colours
+
+<p align="center">
+  <img
+    src="/assets/images/palette/guest-attire-palette.png"
+    alt="Wedding colour palette in dusty blue and sage green tones"
+    style="max-width:320px;"
+  />
+</p>
+
+The palette above highlights our main theme colours of **dusty blue** and **sage green**.
+
 ## Ladies
 
 **Principal Sponsors:**  
