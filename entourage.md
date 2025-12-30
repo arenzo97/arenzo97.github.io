@@ -12,7 +12,7 @@ As this is a formal event, we kindly request that you wear modest attire for our
 
 <p align="center">
   <img
-    src="/assets/images/palette/guest-attire-palette.png"
+    src="/assets/images/palette/guest-attire-swatch-transparent.png"
     alt="Wedding colour palette in dusty blue and sage green tones"
     style="max-width:320px;"
   />
