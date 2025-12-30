@@ -10,7 +10,7 @@ We kindly invite our guests to wear colours within the following palette, reflec
 
 <p align="center">
   <img
-    src="/assets/images/palette/guest-attire-palette.png"
+    src="/assets/images/palette/guest-attire-swatch-transparent.png"
     alt="Wedding colour palette in dusty blue and sage green tones"
     style="max-width:320px;"
   />
