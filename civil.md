@@ -32,4 +32,14 @@ TN6 1RH
 We are grateful to celebrate this special day surrounded by our family and friends.  
 Further schedule details will be shared closer to the date.
 
+---
+
+# Programme
+
+More details to be announced closer to the date...
+
+11:00 - Civil Wedding Ceremony at **Crowborough Register Office**
+
+13:00 - Lunch at hired venue
+
 [Back to Home](index.html)
