@@ -6,7 +6,7 @@ title: Guest Attire
 
 # Guest Attire Guide
 
-We kindly invite our guests to wear colours within the following palette, reflecting the overall theme of our celebration.
+We kindly invite our guests to wear colours within the following palette, reflecting the overall theme of our celebration. As this is a formal event, we kindly request that you wear modest attire for our celebration.
 
 <p align="center">
   <img
