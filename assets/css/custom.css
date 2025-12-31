@@ -1,77 +1,81 @@
-/* Base colors */
+/* --- Base colours --- */
+:root {
+  --sage-light: #f4f7f5;
+  --sage-main: #7a9b8f;
+  --dusty-blue: #6b8fa3;
+  --text-main: #2f2f2f;
+  --text-muted: #555555;
+}
+
+/* --- Body --- */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: var(--sage-light);
+  color: var(--text-main);
+  line-height: 1.65;
+  margin: 0;
+}
+
+/* --- Links --- */
 a {
-  color: #6b8fa3; /* dusty blue */
+  color: var(--dusty-blue);
   text-decoration: none;
 }
 
-a:hover {
+a:hover,
+a:focus {
   text-decoration: underline;
 }
 
-h1, h2 {
-  color: #7a9b8f; /* sage green */
-  font-family: 'Georgia', serif;
+/* --- Headings --- */
+h1,
+h2,
+h3 {
+  color: var(--sage-main);
+  font-weight: 600;
+  line-height: 1.3;
 }
 
-/* Body styling */
-body {
-  font-family: 'Arial', 'Helvetica', sans-serif;
-  background-color: #ffffff;
-  color: #333333;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-}
-
-/* Main container */
+/* --- Main layout --- */
 main.container {
-  max-width: 720px; /* restrict width for desktop readability */
-  margin: 2rem auto; /* auto-center horizontally */
-  padding: 1.5rem; /* breathing room */
+  max-width: 720px;
+  margin: 3rem auto;
+  padding: 2rem;
   box-sizing: border-box;
 }
 
-/* Paragraphs */
-p, li, dd {
+/* --- Content card --- */
+main.container > section {
+  background-color: #ffffff;
+  border-radius: 16px;
+  padding: 2.5rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+
+main.container > section {
+  border-top: 6px solid var(--dusty-blue);
+}
+
+/* --- Text elements --- */
+p,
+li {
+  color: var(--text-muted);
   margin-bottom: 1rem;
 }
 
-/* Subtle card effect for sections (optional) */
-section {
-  padding: 1.5rem;
-  margin-bottom: 2rem;
-  background-color: #fafafa;
-  border-radius: 12px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-}
-
-/* Centered images */
+/* --- Images --- */
 img {
   display: block;
-  margin: 1.5rem auto;
   max-width: 100%;
   height: auto;
-  border-radius: 8px;
-}
-
-.embed {
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%; /* 16:9 ratio */
-  height: 0;
-  margin: 2rem 0;
-}
-
-.embed iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
+  margin: 2rem auto;
   border-radius: 12px;
 }
 
-img {
-  filter: grayscale(5%);
+/* --- Accessibility improvements --- */
+:focus-visible {
+  outline: 3px solid var(--dusty-blue);
+  outline-offset: 3px;
 }
