@@ -6,7 +6,7 @@ title: RSVP Confirmed
 
 # Luis Lorenzo & Eden Grace
 
-**April 4, 2026**  
+**April 4, 2026**  at eleven o'clock in the morning
 Jubilee Community Centre  
 East Grinstead, RH19 2HL
 
