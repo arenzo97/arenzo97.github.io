@@ -7,6 +7,7 @@ title: Wedding Details
 # Wedding Details
 
 **Date:** April 4, 2026  
+**Time:** 11:00  
 **Venue:** Jubilee Community Centre  
 **Address:** East Grinstead, RH19 2HL
 
