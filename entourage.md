@@ -25,11 +25,11 @@ The palette above highlights our main theme colours of **dusty blue** and **sage
 **Principal Sponsors:**  
 Navy Blue / Neptune Blue (any dark blue shade)
 
-**Veil, Cord, Candle:**  
+**Veil Sponsor, Cord Sponsor, Candle Sponsor:**  
 Dusty Blue
 
 **Bible Bearer, Coin Bearer, Ring Bearer:**  
-Dusty Blue
+Navy Blue
 
 **Flower Girl:**  
 Sky Blue
