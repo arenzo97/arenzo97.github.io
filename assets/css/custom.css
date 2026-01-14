@@ -58,6 +58,13 @@ main.container > section {
   border-top: 6px solid var(--dusty-blue);
 }
 
+main.container img {
+  max-width: 100%;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
 /* --- Text elements --- */
 p,
 li {
