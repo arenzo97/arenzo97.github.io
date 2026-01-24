@@ -33,12 +33,8 @@ With love and gratitude,
 > “...A cord of three strands is not quickly broken”
 
 ---
-
-## Wedding Gifts
-- [View more](gifts.html)
-  
----
 ## Navigation
 - [Wedding Details](details.html)
+- [Wedding Gifts](gifts.html)
 - [Entourage & Attire](entourage.html)
 - [Guest Attire Guide](guests.html)
