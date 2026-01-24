@@ -27,4 +27,8 @@ title: Wedding Details
 We are grateful to celebrate this special day surrounded by our family and friends.  
 Further schedule details will be shared closer to the date.
 
+---
+
+We are thankful for your presence and attendance of our wedding celebration. Although we do not require wedding gifts, we appreciate any monetary support you can provide. To find out more check: [Wedding Gifts](gifts.html)
+
 [Back to Home](index.html)
