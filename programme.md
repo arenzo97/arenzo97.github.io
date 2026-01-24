@@ -1,3 +1,9 @@
+---
+css: /assets/css/custom.css
+layout: default
+title: Programme
+---
+
 # Programme
 
 The church blessing will be in two parts: ceremony and reception. There is a break in between to prepare the hall for the dinner and reception. Please find below the approx. timings of the programme.
