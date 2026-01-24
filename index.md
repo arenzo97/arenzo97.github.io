@@ -34,6 +34,10 @@ With love and gratitude,
 
 ---
 
+## Wedding Gifts
+- [View more](gifts.html)
+  
+---
 ## Navigation
 - [Wedding Details](details.html)
 - [Entourage & Attire](entourage.html)
