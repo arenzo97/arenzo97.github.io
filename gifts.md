@@ -1,23 +1,27 @@
 ---
 css: /assets/css/custom.css
 layout: default
-title: RSVP Confirmed
+title: Wedding Gifts
 ---
 
 # Wedding Gifts
 
-We are praying to move in to our new home as we build our life together. While we do not require you to provide a gift to our wedding celebration, we greatly appreciate any help and support you can provide through monetary means.
+We are praying to move into our new home as we build our life together. While we do not require you to provide a gift to our wedding celebration, we greatly appreciate any help and support you may wish to offer through monetary means.
 
-There are several ways you can do so:
+Please note that giving is entirely optional. Your presence at our wedding is what matters most to us.
 
-- Use this link:
-  [https://revolut.me/luisarvls](https://revolut.me/luisarvls)
+---
 
-- Bank transfer:
-  Luis Arenas Arenas
-  04-00-75
-  18146074
+## Ways to Give
 
-  Use the reference: Wedding Gift
+| Method | Details |
+|------|--------|
+| **Online Transfer** | [https://revolut.me/luisarvls](https://revolut.me/luisarvls) |
+| **Bank Transfer** | **Name:** Luis Arenas Arenas<br>**Sort Code:** 04-00-75<br>**Account Number:** 18146074<br><br>**Reference:** Wedding Gift |
 
-  Again, please do not feel pressured to give something to us, we much more appreciate your attendance in our wedding celebration. Thank you!
+---
+
+Again, please do not feel any pressure to give. We are deeply grateful for your love, support, and presence as we celebrate our wedding day.
+
+With sincere thanks,  
+**Luis & Eden**
