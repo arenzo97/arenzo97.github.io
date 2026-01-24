@@ -34,18 +34,6 @@ With love and gratitude,
 
 ---
 
-## Invitation Preview
-
-<div class="canva-embed">
-  <iframe
-    loading="lazy"
-    src="https://www.canva.com/design/DAG_VZOyIR4/_Wxh-CJ8BqwRtKzt1Xt6mQ/view?embed"
-    allowfullscreen
-  ></iframe>
-</div>
-
-
----
 ## Navigation
 - [Wedding Details](details.html)
 - [Entourage & Attire](entourage.html)
