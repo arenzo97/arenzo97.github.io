@@ -17,7 +17,7 @@ title: Entourage – Jonathan and Mercy
 First and foremost, thank you for confirming your attendance at our wedding.  
 We are truly grateful that you will be joining us on such a meaningful day.
 
-We would also like to take this opportunity to formally ask whether you would be willing to be part of our wedding entourage as our **Cord Sponsors** during the ceremony on **Saturday, 4 April 2026**. It would be a great honour to have you both serve in this role, and we would be deeply thankful for your support.
+We would also like to take this opportunity to formally ask whether you would be willing to be part of our wedding entourage as our **Light Sponsors** during the ceremony on **Saturday, 4 April 2026**. It would be a great honour to have you both serve in this role, and we would be deeply thankful for your support.
 
 Please feel entirely free to let us know—via your preferred means of communication—whether you would be comfortable taking part.
 
