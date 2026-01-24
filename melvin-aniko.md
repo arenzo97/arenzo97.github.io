@@ -1,7 +1,7 @@
 ---
 css: /assets/css/custom.css
 layout: default
-title: Entourage - Melvin and Aniko
+title: Entourage – Melvin and Aniko
 ---
 
 # Dear Melvin and Aniko,
@@ -14,15 +14,27 @@ title: Entourage - Melvin and Aniko
   />
 </p>
 
-First of all, we would like to thank you for confirming our RSVP.
+First and foremost, thank you for confirming your attendance at our wedding.  
+We are truly grateful that you will be joining us on such a meaningful day.
 
-We know it's a little late but we wanted to officially ask you if you could please be part of our wedding entourage as the **Cord Sponsors** for the ceremony on the 4th April 2026.
+We would also like to take this opportunity to formally ask whether you would be willing to be part of our wedding entourage as our **Cord Sponsors** during the ceremony on **Saturday, 4 April 2026**. It would be a great honour to have you both serve in this role, and we would be deeply thankful for your support.
 
-In regards to colour/theme while we don't want you to feel pressured in getting more clothes, it would be appreciated if you can wear:
+Please feel entirely free to let us know—via your preferred means of communication—whether you would be comfortable taking part.
+
+With regard to attire, we would never wish for you to feel any pressure to purchase new clothing. However, should it be convenient, we kindly suggest the following to align with the ceremony’s colour theme:
 
 | Aniko | Melvin |
 |------|--------|
-| Dusty blue dress | Grey suit and dusty blue neck tie |
+| Dusty blue dress | Grey suit with a dusty blue necktie |
+
+Should there be any additional details or updates, we will be sure to share them with you in due course.
+
+Once again, thank you for your continued love and support. We truly hope you will be happy to stand with us on this special day.
+
+---
+
+With warm regards,  
+**Luis & Eden**
 
 ---
 
