@@ -32,7 +32,20 @@ With love and gratitude,
 ## Ecclesiastes 4:12
 > “...A cord of three strands is not quickly broken”
 
---- 
+---
+
+## Invitation Preview
+
+<div class="canva-embed">
+  <iframe
+    loading="lazy"
+    src="https://www.canva.com/design/DAG_VZOyIR4/_Wxh-CJ8BqwRtKzt1Xt6mQ/view?embed"
+    allowfullscreen
+  ></iframe>
+</div>
+
+
+---
 ## Navigation
 - [Wedding Details](details.html)
 - [Entourage & Attire](entourage.html)
