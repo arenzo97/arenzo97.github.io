@@ -1,3 +1,9 @@
+---
+css: /assets/css/custom.css
+layout: default
+title: RSVP Confirmed
+---
+
 # Wedding Gifts
 
 We are praying to move in to our new home as we build our life together. While we do not require you to provide a gift to our wedding celebration, we greatly appreciate any help and support you can provide through monetary means.
