@@ -8,7 +8,7 @@ title: Entourage - Melvin and Aniko
 
 <p align="center">
   <img
-    src="/assets/images/melvin-aniko.jpg"
+    src="/assets/images/melvin-aniko.JPH"
     alt="Melvin and Aniko"
     style="max-width:320px;"
   />
