@@ -25,7 +25,8 @@ With regard to attire, we would never wish for you to feel any pressure to purch
 
 | Paula | Carlos |
 |------|--------|
-| Navy blue dress | Grey suit with a navy blue necktie |
+| Navy blue **dress** | Navy Blue / Dark Blue / Neptune / Grey
+(Any suit colour is acceptable if unavailable) **suit** with a navy blue **necktie** |
 
 Should there be any additional details or updates, we will be sure to share them with you in due course.
 
