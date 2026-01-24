@@ -23,7 +23,7 @@ Please feel entirely free to let us know—via your preferred means of communica
 
 With regard to attire, we would never wish for you to feel any pressure to purchase new clothing. However, should it be convenient, we kindly suggest the following to align with the ceremony’s colour theme:
 
-| Aniko | Melvin |
+| Nicole | Al |
 |------|--------|
 | Dusty blue **dress** | Navy Blue / Dark Blue / Neptune / Grey **suit** with a dusty blue **necktie** |
 
