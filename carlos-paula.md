@@ -36,6 +36,16 @@ Once again, thank you for your continued love and support. We truly hope you wil
 With warm regards,  
 **Luis & Eden**
 
+
+p.s. bring back this hairstyle xD
+<p align="center">
+  <img
+    src="/assets/images/carlos-paula-funny.JPG"
+    alt=" Carlos and Paula funny"
+    style="max-width:320px;"
+  />
+</p>
+
 ---
 
 [Back to Home](index.html)
