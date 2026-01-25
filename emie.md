@@ -6,6 +6,15 @@ title: Entourage – Emie
 
 # Dear Emie,
 
+<p align="center">
+  <img
+    src="/assets/images/emie.jpg"
+    alt="Emie monkey"
+    style="max-width:320px;"
+  />
+</p>
+
+
 First and foremost, thank you for confirming your attendance at our wedding.  
 We are truly grateful that you will be joining us on such a meaningful day.
 
@@ -26,16 +35,6 @@ Once again, thank you for your continued love and support. We truly hope you wil
 ---
 
 p.s. let's go hiking again
-
-
-<p align="center">
-  <img
-    src="/assets/images/emie.jpg"
-    alt="Emie monkey"
-    style="max-width:320px;"
-  />
-</p>
-
 
 <p align="center">
   <img
