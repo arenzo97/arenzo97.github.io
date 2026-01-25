@@ -15,13 +15,36 @@ Please feel entirely free to let us know—via your preferred means of communica
 
 With regard to attire, we would never wish for you to feel any pressure to purchase new clothing. However, should it be convenient, we kindly suggest the following to align with the ceremony’s colour theme:
 
-| Paula |
+| Attire |
 |------|
 | Navy blue **dress** |
 
 Should there be any additional details or updates, we will be sure to share them with you in due course.
 
 Once again, thank you for your continued love and support. We truly hope you will be happy to stand with us on this special day.
+
+---
+
+p.s. let's go hiking again
+
+
+<p align="center">
+  <img
+    src="/assets/images/emie.jpg"
+    alt="Emie monkey"
+    style="max-width:320px;"
+  />
+</p>
+
+
+<p align="center">
+  <img
+    src="/assets/images/emie-1.jpg"
+    alt="Emie kick"
+    style="max-width:320px;"
+  />
+</p>
+
 
 ---
 
