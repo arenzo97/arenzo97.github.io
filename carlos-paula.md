@@ -8,7 +8,7 @@ title: Entourage – Carlos and Paula
 
 <p align="center">
   <img
-    src="/assets/images/carlos-paula.jpg"
+    src="/assets/images/carlos-paula-1.jpg"
     alt=" Carlos and Paula"
     style="max-width:320px;"
   />
