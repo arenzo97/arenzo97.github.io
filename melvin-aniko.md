@@ -33,6 +33,18 @@ Once again, thank you for your continued love and support. We truly hope you wil
 
 ---
 
+p.s. sorry we don't have a lot of photos with all 4 of us so please enjoy:
+
+<p align="center">
+  <img
+    src="/assets/images/melvin-aniko-1.png"
+    alt="Melvin and Aniko 'shopped'"
+    style="max-width:320px;"
+  />
+</p>
+
+---
+
 With warm regards,  
 **Luis & Eden**
 
