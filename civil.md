@@ -39,8 +39,10 @@ Further schedule details will be shared closer to the date.
 
 More details to be announced closer to the date...
 
+10:30 - Arrival
+
 11:00 - Civil Wedding Ceremony at **Crowborough Register Office**
 
-13:00 - Lunch at hired venue
+13:00 - Lunch at hired venue - Jubilee Community Centre, East Grinstead, RH19 2HL (Jordan Hall)
 
 [Back to Home](index.html)
