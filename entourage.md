@@ -32,7 +32,7 @@ Dusty Blue
 Navy Blue
 
 **Flower Girl:**  
-Sky Blue
+Sky Blue / Dusty Blue
 
 **Banner:**  
 White
