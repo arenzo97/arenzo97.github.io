@@ -1,3 +1,9 @@
+---
+css: /assets/css/custom.css
+layout: default
+title: Reminder
+---
+
 # Reminder for our wedding!
 ------------------------------------------------------------
 
@@ -45,9 +51,9 @@ We don’t require you to have a strict dress code, but if you would like to mat
 ## Parking and transport
 **Car:** We ask that you park behind the building as we will leave the front entrance vacant as part of the programme.
 
-**Bus:** The nearest bus stop can be found in Lingfield Road (https://www.metrobus.co.uk/live/4400EG0324)
+**Bus:** The nearest bus stop can be found in [Lingfield Road](https://www.metrobus.co.uk/live/4400EG0324)
 
-**Train:** The nearest train station is East Grinstead (EGR) (https://www.nationalrail.co.uk/stations/east-grinstead/)
+**Train:** The nearest train station is [East Grinstead (EGR)](https://www.nationalrail.co.uk/stations/east-grinstead/)
 
 
 ### Gifts?
