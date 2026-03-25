@@ -57,6 +57,6 @@ We don’t require you to have a strict dress code, but if you would like to mat
 
 
 ### Gifts?
-Your presence is a ‘present’ to us already, but if you want to give something - we would much rather receive monetary gifts as we are praying to move in to a new house together.
-[Gift guide](https://arenzo97.github.io/gifts.html)
+Your presence is a ‘present’ to us already, but if you want to give something - we would much rather receive monetary gifts as we are praying to move in to a new house together.<br>
+[Gift guide](https://arenzo97.github.io/gifts.html)<br>
 [Any other questions? Click here](http://arenzo97.github.io)
