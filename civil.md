@@ -69,6 +69,14 @@ East Grinstead RH19 2HL
 
 We don’t require you to have a strict dress code, but if you would like to match our theme, here are the colours:
 
+<p align="center">
+  <img
+    src="/assets/images/palette/guest-attire-swatch-transparent.png"
+    alt="Wedding colour palette in dusty blue and sage green tones"
+    style="max-width:320px;"
+  />
+</p>
+
 …but our emphasis is that you dress your best and comfortably, ranging from semi-formal to formal.
 
 
