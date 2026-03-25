@@ -7,7 +7,7 @@ title: Reminder
 # Reminder for our wedding!
 ------------------------------------------------------------
 
-Our wedding is just a few days away, so we wanted to give you some more details. We are so excited that our special day is almost here! Here are a few friendly reminders for Saturday, 4th April 2026 to help you be prepared for what to expect.
+Our wedding is just a few days away, so we wanted to give you some more details. We are so excited that our special day is almost here! Here are a few friendly reminders for **Saturday, 4th April 2026** to help you be prepared for what to expect.
 
 As a reminder for the location, the ceremony and reception are located:
 
