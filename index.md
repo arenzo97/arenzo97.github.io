@@ -34,7 +34,7 @@ With love and gratitude,
 
 ---
 ## Navigation
-- [Wedding Details](details.html)
+- [Location](details.html)
 - [Wedding Gifts](gifts.html)
-- [Entourage & Attire](entourage.html)
+- [Entourage](entourage.html)
 - [Guest Attire Guide](guests.html)
