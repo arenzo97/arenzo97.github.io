@@ -47,7 +47,7 @@ The venue is hosted in:
 
 Crowborough Register Office
 
-HooksteadGoldsmith's Avenue
+Hookstead Goldsmith's Avenue
 
 Crowborough TN6 1RH
 
