@@ -30,7 +30,14 @@ We will then proceed to our lunch and reception, provided in part by Praise & Pl
 ## What to expect
 We don’t require you to have a strict dress code, but if you would like to match our theme, here are the colours:
 
-Wedding colour palette in dusty blue and sage green tones
+<p align="center">
+  <img
+    src="/assets/images/palette/guest-attire-swatch-transparent.png"
+    alt="Wedding colour palette in dusty blue and sage green tones"
+    style="max-width:320px;"
+  />
+</p>
+
 
 …but our emphasis is that you dress your best and comfortably, ranging from semi-formal to formal.
 
