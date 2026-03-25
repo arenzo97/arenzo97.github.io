@@ -34,15 +34,45 @@ We are grateful to celebrate this special day surrounded by our family and frien
 Further schedule details will be shared closer to the date.
 
 ---
+Our civil wedding is just a few days away, so we wanted to give you some more details. We are so excited that our special day is almost here! Here are a few friendly reminders for Wednesday, 1st April 2026 to help you be prepared for what to expect.
 
-# Programme
 
-More details to be announced closer to the date...
+## 10:30 - Civil Wedding Ceremony at Crowborough
 
-10:30 - Arrival
+As a reminder for the venue, it can be found below and we ask that you arrive 10:30 as the ceremony starts promptly.
 
-11:00 - Civil Wedding Ceremony at **Crowborough Register Office**
 
-13:00 - Lunch at hired venue - Jubilee Community Centre, East Grinstead, RH19 2HL (Jordan Hall)
 
-[Back to Home](index.html)
+The venue is hosted in:
+
+Crowborough Register Office
+
+HooksteadGoldsmith's Avenue
+
+Crowborough TN6 1RH
+
+
+
+## ~12:00 - MoYA Reception at Jubilee Community Centre
+
+After this, we would like to invite you to our short MoYA-focused reception and programme at:
+
+Jubilee Community Centre,
+
+East Grinstead RH19 2HL
+
+
+…which is booked from 12:00 until 17:00.
+
+---
+## What to expect
+
+We don’t require you to have a strict dress code, but if you would like to match our theme, here are the colours:
+
+…but our emphasis is that you dress your best and comfortably, ranging from semi-formal to formal.
+
+
+
+## Gifts?
+
+Your presence is a ‘present’ to us already, but if you want to give something - we would much rather receive monetary gifts as we are praying to move in to a new house together.
