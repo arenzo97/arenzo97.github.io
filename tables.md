@@ -1,3 +1,12 @@
+---
+css: /assets/css/custom.css
+layout: default
+title: Tables
+---
+
+# Tables
+
+
 | Primary                        |            | Love is patient                |               |  Love is kind                |           |
 |--------------------------------|------------|--------------------------------|---------------|------------------------------|-----------|
 | Luis                           | Arenas     | Angelito                       | Tandoc        | Norman                       | Ponce     |
