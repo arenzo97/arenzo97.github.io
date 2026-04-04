@@ -128,7 +128,7 @@ title: Tables
 - Muhammed Bangura  
 - Jake Troy  
 - Lawrence Howes-Yarlett  
-- Jurin  
+- Jurin Katayama Flores
 
 ---
 
@@ -164,18 +164,6 @@ title: Tables
 - Johanna Resurreccion  
 - Ellora Mendeguerin  
 - Ray Mendeguerin  
-
----
-
-## Media
-- Hollie Panuelos  
-- Fabrice Cotte  
-- Micah Valerio  
-- Miguel Mineses  
-- Jhazmin Cabrera  
-- Thazmin Cabrera  
-- Gabby Thomas  
-- Creighton Diaz  
 
 ---
 
@@ -217,4 +205,16 @@ title: Tables
 - Marichu Biag  
 - Leah Schoner  
 - Dana Schoner  
-- Aibonne Maghuyop  
+- Aibonne Maghuyop
+
+---
+
+## Media
+- Hollie Panuelos  
+- Fabrice Cotte  
+- Micah Valerio  
+- Miguel Mineses  
+- Jhazmin Cabrera  
+- Thazmin Cabrera  
+- Gabby Thomas  
+- Creighton Diaz
