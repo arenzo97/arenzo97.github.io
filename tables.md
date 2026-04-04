@@ -17,8 +17,9 @@ title: Tables
 | Elenita                        | Arenas     | Pem                            | Padrigon      | Melvin                       | Tagadan   |
 |                                |            | Sofia                          | Padrigon      | Raeleen                      | Araneta   |
 |                                |            | Jun Patrick                    | Padrigon      | Kieran                       | Johnstone |
-|                                |            |                                |               |                              |           |
+
 | Love does not envy             |            | Love does not boast            |               | Love is not proud            |           |
+|--------------------------------|------------|--------------------------------|---------------|------------------------------|-----------|
 | Lewynne                        | Mollejon   | Rolando                        | Salazar       | Mery                         | Eslabra   |
 | Norvie                         | Dubeau     | Carol                          | Salazar       | Dianne                       | Totaan    |
 | April                          | Villanueva | Malou                          | Cypress       | Nicole                       | Aglaua    |
@@ -27,8 +28,9 @@ title: Tables
 | Betty                          | Manudon    | Hans                           | Empedrado     | Vaneth                       | Cruz      |
 | Marcelo Miguel                 | Arenas     | Third                          | Jasareno      | Esobel                       | Belen     |
 | Maria                          | de Rona    | Larraine                       | Jasareno      | Evelynda                     | Camato    |
-|                                |            |                                |               |                              |           |
+
 | Love is not rude               |            | Love is not self-seeking       |               | Love is not easily angered   |           |
+|--------------------------------|------------|--------------------------------|---------------|------------------------------|-----------|
 | Dyesebel                       | Plasabas   | Jerry                          | Pamintuan     | Nikki                        | Balasico  |
 | Janna                          | Baker      | Christy                        | Pamintuan     | Nikki                        | Apduhan   |
 | Reynan                         | Docante    | Maeanne                        | Diaz          | Caroline                     | Tuballa   |
@@ -37,8 +39,9 @@ title: Tables
 | Restituta                      | Sheard     | Emie                           | Agcapen       | Benedict                     | Ruiz      |
 | Caroline                       | Tuballa    | Miriam                         | Melendres     | Jonathan                     | Adeniran  |
 | Alexa                          | Aquino     | Ayesha                         | Melendres     | Mercy                        | Adeniran  |
-|                                |            |                                |               |                              |           |
+
 | Love keeps no record of wrongs |            | Love does not delight in evil  |               | Love rejoices with the truth |           |
+|--------------------------------|------------|--------------------------------|---------------|------------------------------|-----------|
 | Jean                           | Pababi     | Ernest                         | Beboso        | Jefferson                    | Simbulan  |
 | Cleveland                      | Pababi     | Muhammed                       | Bangura       | Sheikha                      | Simbulan  |
 | Robert                         | Guanco     | Jake                           | Troy          | Shekinah                     | Simbulan  |
@@ -46,9 +49,10 @@ title: Tables
 | Joaquin                        | Subagan    | Jurin                          |               | Mateo                        | Simbulan  |
 | Joy                            | Capiral    |                                |               | Jenjen                       | Simbulan  |
 | Harry                          | Capiral    |                                |               | Christine                    | Tado      |
-|                                |            |                                |               |                              |           |
-|                                |            |                                |               |                              |           |
+
+
 | Love always protects           |            | Love always trusts             |               | Media                        |           |
+|--------------------------------|------------|--------------------------------|---------------|------------------------------|-----------|
 | Arlene                         | Tambo      | Leni                           | Panuelos      | Hollie                       | Panuelos  |
 | Myra                           | Tambo      | Eva                            | del Valle     | Fabrice                      | Cotte     |
 | Jarhen                         | Rogador    | Maria                          | Valerio       | Micah                        | Valerio   |
@@ -57,9 +61,9 @@ title: Tables
 | Jamielynn                      | Tambo      | Johanna                        | Resurreccion  | Thazmin                      | Cabrera   |
 | Nerissa                        | Rogador    | Ellora                         | Mendeguerin   | Gabby                        | Thomas    |
 | Eriberto                       | Rogador    | Ray                            | Mendeguerin   | Creighton                    | Diaz      |
-|                                |            |                                |               |                              |           |
-|                                |            |                                |               |                              |           |
+
 | Love always hopes              |            | Love always perseveres         |               |                              |           |
+|--------------------------------|------------|--------------------------------|---------------|------------------------------|-----------|
 | Kate                           | Cruz       | Jojo                           | Retuya        |                              |           |
 | Armie                          | San Diego  | Charmaine                      | Retuya        |                              |           |
 | Danilo                         | San Diego  | Hubert                         | Dolloso       |                              |           |
