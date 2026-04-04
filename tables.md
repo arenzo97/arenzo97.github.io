@@ -125,7 +125,7 @@ title: Tables
 
 ## Love does not delight in evil
 - Ernest Beboso  
-- Muhammed Bangura  
+- Mo Bangura  
 - Jake Troy  
 - Lawrence Howes-Yarlett  
 - Jurin Katayama Flores
