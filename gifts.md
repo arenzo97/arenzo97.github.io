@@ -16,7 +16,6 @@ Please note that giving is entirely optional. Your presence at our wedding is wh
 
 | Method | Details |
 |------|--------|
-| **Revolut Link** | [https://revolut.me/luisarvls](https://revolut.me/luisarvls) |
 | **Bank Transfer** | **Name:** Luis Arenas Arenas<br>**Sort Code:** 04-00-75<br>**Account Number:** 18146074<br><br>**Reference:** Wedding Gift |
 
 ---
